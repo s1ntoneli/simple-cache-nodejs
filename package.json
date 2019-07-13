@@ -4,5 +4,14 @@
   "main": "simple-cache.js",
   "dependencies": {
     "memory-cache": "^0.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/auv1107/simple-cache-nodejs"
+  },
+  "keywords": [
+    "cache",
+    "prototype",
+    "memory cache" 
+  ]
 }
