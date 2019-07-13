@@ -1,0 +1,8 @@
+{
+  "name": "simple-cache",
+  "version": "0.1.0",
+  "main": "simple-cache.js",
+  "dependencies": {
+    "memory-cache": "^0.2.0"
+  }
+}
